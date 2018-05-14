@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+var cheese = 3;
 
 require('dotenv').config()
 
